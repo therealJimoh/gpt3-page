@@ -1,0 +1,21 @@
+ .gpt__header {
+     display: flex;
+ }
+
+.gpt__header-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+
+    margin: 5rem;
+}
+
+.gpt__header-content h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.4rem;
+}
