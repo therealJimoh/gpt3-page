@@ -1,5 +1,6 @@
  .gpt__header {
      display: flex;
+     justify-content: center;
  }
 
 .gpt__header-content {
