@@ -9,7 +9,7 @@ const Features = () => {
           The Future is Now and You Just Need To Realize It. Step into Future
           Today & Make it Happen.
         </h1>
-        <p>Request Early Access to Get Started</p>
+        <p>Request Early Access to Get Started here</p>
       </div>
     </div>
   );
